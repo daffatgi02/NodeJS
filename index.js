@@ -17,4 +17,3 @@ app.listen(port, ()=>{
   console.log('\x1b[33m Welcome to the app! \x1b[0m');
   console.log('\x1b[36m%s\x1b[0m', 'Started on http://localhost:82')
 });
-
