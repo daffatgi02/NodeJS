@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "version": "1.0.0",
+  "name": "backend_nodejs",
+  "version": "1.0",
   "description": "ini adalah project untuk belajar node js",
   "main": "index.js",
   "scripts": {
